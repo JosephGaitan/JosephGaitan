@@ -1,8 +1,8 @@
 ![MasterHead](https://www.paragyte.com/img/React_Banner.png)
 <h1 align="center">Hi, I'm Joseph Z. Gaitan 😁</h1>
-<h3 align="center">Coding is my passion. 💻❤️</h3>
+<h3 align="center">TypeScript | NextJs | NodeJS | SQL | ReactJs | 💻❤️</h3>
 
-- 🔭 **Working** on different **animated projects** that will be **posted soon**... 😎
+- 🔭 **Working** on different **full-stack projects** that will be **posted soon**... 😎
 - 🌱 I’m currently learning **Nodejs, Nestjs,** Micro-Services.
 - ⚡ Hobbies: **I love playing the guitar and outdoor activities like climbing.**
 
