@@ -3,7 +3,7 @@
 <h3 align="center">Coding is my passion. 💻❤️</h3>
 
 - 🔭 **Working** on different **animated projects** that will be **posted soon**... 😎
-- 🌱 I’m currently learning **Nodejs and MongoDB,** MERN stack.
+- 🌱 I’m currently learning **Nodejs, Nestjs,** Micro-Services.
 - ⚡ Hobbies: **I love playing the guitar and outdoor activities like climbing.**
 
  <h4>Know about me and my experiences:</h4> 
