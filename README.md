@@ -4,7 +4,7 @@
 
 - 🔭 **Working** on different **full-stack projects** that will be **posted soon**... 😎
 - 🌱 I’m currently learning **Nodejs, Nestjs,** Micro-Services.
-- ⚡ Hobbies: **I love playing the guitar and outdoor activities like climbing.**
+- ⚡ Hobbies: **I love reading fantasy and sci-fi. Currently I also enjoy dancing latin music**
 
  <h4>Know about me and my experiences:</h4> 
 I have worked with JavaScript and React to create interfaces based on components that make the users adore the App while obtaining value from the service it offers. I can perfectly work with APIs and React-Router-DOM to boost the efficiency and the vastness of the App in terms of functionalities. I have strong knowledge of CSS and TailwindCSS since I specialize on creating responsive-designed and well-stylized apps. **Plus**, Conversational English Level
