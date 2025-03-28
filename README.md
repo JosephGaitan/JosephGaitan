@@ -1,6 +1,6 @@
 ![MasterHead](https://www.paragyte.com/img/React_Banner.png)
 <h1 align="center">Hi, I'm Joseph Z. Gaitan 😁</h1>
-<h3 align="center">TypeScript | NextJs | NodeJS | SQL | ReactJs | 💻❤️</h3>
+<h3 align="center">TypeScript | NextJs | NodeJS | SQL | AWS | AI 💻❤️</h3>
 
 - 🔭 **Working** on different **full-stack projects** that will be **posted soon**... 😎
 - 🌱 I’m currently learning **Nodejs, Nestjs,** Micro-Services.
